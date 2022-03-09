@@ -4,9 +4,9 @@ import Tudo from './tudo/Tudo';
 
 const App = () => {
     return(
-    <div className="App">
-      <Tudo/>
-    </div>
+      <div className="App">
+        <Tudo/>
+      </div>
     );
 }
 

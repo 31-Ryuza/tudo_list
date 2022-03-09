@@ -1,5 +1,13 @@
-ul > li {
-    border: 1px solid turquoise;
-    padding: 10px;
-    margin: 10px;
+
+
+.list{
+    margin: auto;
+    width: 700px;
+}
+
+.isi{
+    border-radius: 10px;
+    color: #e4d500;
+    text-align: center;
+    border-bottom-left-radius: 15px;
 }
